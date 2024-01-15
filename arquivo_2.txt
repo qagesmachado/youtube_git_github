@@ -4,4 +4,4 @@ Commit vindo da branch 3
 Commit com conflito da branch 4
 Alteração feita na master para gerar conflito
 Resolvi e conflito e adicionei mais coisa
-Alteraçao pra conflito local feito na master
+Conflito vindo da branch 5 - já foi resolvido
