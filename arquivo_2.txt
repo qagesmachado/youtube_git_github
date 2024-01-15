@@ -2,3 +2,5 @@ um arquivo com uma segunda alteraçao
 Commit vindo da branch 2
 Commit vindo da branch 3
 Commit com conflito da branch 4
+Alteração feita na master para gerar conflito
+Resolvi e conflito e adicionei mais coisa
